@@ -1,4 +1,4 @@
-package org.example.AtividadesLista1;
+package org.example.Lista1;
 
 public class ListaEstatica2<T> {
     private T[] info;

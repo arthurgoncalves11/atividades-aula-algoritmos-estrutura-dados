@@ -1,4 +1,4 @@
-package org.example.AtividadesLista1;
+package org.example.Lista1;
 
 import org.junit.jupiter.api.Test;
 
