@@ -1,7 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b5ab54f-db6a-4715-8010-5bb32bff33c8" name="Changes" comment="">
+    <list default="true" id="2b5ab54f-db6a-4715-8010-5bb32bff33c8" name="Changes" comment="Lista 5">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos/src/main/java/org/example/Lista5/CheckExpressaoAritmetica/ExpressaoAritmetica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos/src/main/java/org/example/Lista5/CheckExpressaoAritmetica/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos/src/main/java/org/example/Lista5/ImplementacaoEncadeada/Exception/PilhaVaziaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos/src/main/java/org/example/Lista5/ImplementacaoEncadeada/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos/src/main/java/org/example/Lista5/ImplementacaoEncadeada/Pilha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos/src/main/java/org/example/Lista5/ImplementacaoEncadeada/PilhaLista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos/src/main/java/org/example/Lista5/ImplementacaoEstatica/Exception/PilhaCheiaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos/src/main/java/org/example/Lista5/ImplementacaoEstatica/Exception/PilhaVaziaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos/src/main/java/org/example/Lista5/ImplementacaoEstatica/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos/src/main/java/org/example/Lista5/ImplementacaoEstatica/Pilha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos/src/main/java/org/example/Lista5/ImplementacaoEstatica/PilhaVetor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos/src/main/java/org/example/Lista5/L05 - Pilha.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos/src/test/java/org/example/Lista5/ExpressaoAritmeticaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos/src/test/java/org/example/Lista5/PilhaListaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos/src/test/java/org/example/Lista5/PilhaVetorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/atividades-aula-algoritmos-estrutura-dados/org/example/Lista1/ListaEstatica.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/atividades-aula-algoritmos-estrutura-dados/org/example/Lista1/ListaEstatica2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/atividades-aula-algoritmos-estrutura-dados/org/example/Lista3/ListaEncadeadaExercicio03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/atividades-aula-algoritmos-estrutura-dados/org/example/Lista3/NoLista.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/atividades-aula-algoritmos-estrutura-dados/org/example/Lista4/ListaDupla.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/atividades-aula-algoritmos-estrutura-dados/org/example/Lista4/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/atividades-aula-algoritmos-estrutura-dados/org/example/Lista4/NoListaDupla.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/atividades-aula-algoritmos-estrutura-dados/org/example/Lista5/CheckExpressaoAritmetica/ExpressaoAritmetica.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/atividades-aula-algoritmos-estrutura-dados/org/example/Lista5/CheckExpressaoAritmetica/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/atividades-aula-algoritmos-estrutura-dados/org/example/Lista5/ImplementacaoEncadeada/Exception/PilhaVaziaException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/atividades-aula-algoritmos-estrutura-dados/org/example/Lista5/ImplementacaoEncadeada/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/atividades-aula-algoritmos-estrutura-dados/org/example/Lista5/ImplementacaoEncadeada/Pilha.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/atividades-aula-algoritmos-estrutura-dados/org/example/Lista5/ImplementacaoEncadeada/PilhaLista.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/atividades-aula-algoritmos-estrutura-dados/org/example/Lista5/ImplementacaoEstatica/Exception/PilhaCheiaException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/atividades-aula-algoritmos-estrutura-dados/org/example/Lista5/ImplementacaoEstatica/Exception/PilhaVaziaException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/atividades-aula-algoritmos-estrutura-dados/org/example/Lista5/ImplementacaoEstatica/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/atividades-aula-algoritmos-estrutura-dados/org/example/Lista5/ImplementacaoEstatica/Pilha.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/atividades-aula-algoritmos-estrutura-dados/org/example/Lista5/ImplementacaoEstatica/PilhaVetor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/atividades-aula-algoritmos-estrutura-dados/org/example/Lista5/L05 - Pilha.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/atividades-aula-algoritmos-estrutura-dados/org/example/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/atividades-aula-algoritmos-estrutura-dados.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/atividades-aula-algoritmos-estrutura-dados.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -10,6 +51,26 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/arthu/IdeaProjects/atividades-aula-algoritmos-estrutura-dados" value="3A322GZrN3AcWwCBYn1HucBU1vO" />
+    </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedModel">
+    <selectedModels>
+      <entry key="chat-panel" value="GPT-5.1-Codex" />
+      <entry key="agent-panel" value="GPT-5.1-Codex" />
+    </selectedModels>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,7 +84,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/arthurgoncalves11/atividades-aula-algoritmos-estrutura-dados.git&quot;,
-    &quot;accountId&quot;: &quot;51bf5fb4-9ae2-4e17-b9b6-0548ea32164e&quot;
+    &quot;accountId&quot;: &quot;2ffc6d6d-2a43-4226-9717-d03a6f45e2ec&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -37,24 +98,123 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Debug",
     "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.All in algoritmos.executor": "Run",
+    "JUnit.All in atividades-aula-algoritmos-estrutura-dados.executor": "Run",
+    "JUnit.ExpressaoAritmeticaTest.executor": "Debug",
+    "JUnit.ExpressaoAritmetivaTest.executor": "Debug",
+    "JUnit.PilhaVetorTest.checkConcaternarMergesStacksAndKeepsOriginalIntact.executor": "Run",
+    "JUnit.PilhaVetorTest.executor": "Run",
+    "Maven.algoritmos [clean].executor": "Run",
+    "Maven.algoritmos [install].executor": "Run",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.Lista5" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example.Lista5.ImplementacaoEstatica" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ExpressaoAritmeticaTest">
+    <configuration name="All in algoritmos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in atividades-aula-algoritmos-estrutura-dados" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="atividades-aula-algoritmos-estrutura-dados" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpressaoAritmeticaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Lista5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Lista5" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Lista5.ExpressaoAritmeticaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PilhaVetorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Lista5.ImplementacaoEstatica.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Lista5.ImplementacaoEstatica" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Lista5.ImplementacaoEstatica.PilhaVetorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PilhaVetorTest.checkConcaternarMergesStacksAndKeepsOriginalIntact" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Lista5.ImplementacaoEstatica.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Lista5.ImplementacaoEstatica" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Lista5.ImplementacaoEstatica.PilhaVetorTest" />
+      <option name="METHOD_NAME" value="checkConcaternarMergesStacksAndKeepsOriginalIntact" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ExpressaoAritmeticaTest" />
+        <item itemvalue="JUnit.PilhaVetorTest" />
+        <item itemvalue="JUnit.All in algoritmos" />
+        <item itemvalue="JUnit.All in atividades-aula-algoritmos-estrutura-dados" />
+        <item itemvalue="JUnit.PilhaVetorTest.checkConcaternarMergesStacksAndKeepsOriginalIntact" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -75,10 +235,60 @@
       <workItem from="1772993748185" duration="1126000" />
       <workItem from="1773264827768" duration="136000" />
       <workItem from="1773265015897" duration="209000" />
+      <workItem from="1774711332330" duration="6902000" />
+      <workItem from="1774809344933" duration="14738000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lista 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lista 5" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algoritmos/src/main/java/org/example/Lista5/ImplementacaoEstatica/Main.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algoritmos/src/main/java/org/example/Lista5/ImplementacaoEstatica/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algoritmos/src/main/java/org/example/Lista5/ImplementacaoEncadeada/Main.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algoritmos/src/main/java/org/example/Lista5/ImplementacaoEncadeada/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algoritmos/src/main/java/org/example/Lista5/ImplementacaoEncadeada/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algoritmos/src/main/java/org/example/Lista5/CheckExpressaoAritmetica/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>
